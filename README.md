@@ -35,7 +35,25 @@ git branch -M main
 ```
 git push origin main
 ```
+or
+
+```
+git push -u origin main
+```
+then
+
+```
+git push
+```
 - Pushing to github
+
+
+
+```
+git commit -am "MSG"
+```
+- To add and commit in single command.
+- No untracted file created.
 
 
 
